@@ -34,3 +34,24 @@ A web-based calculator built with HTML, CSS, and JavaScript. This project suppor
 
    ```bash
    git clone https://github.com/yourusername/simple-js-calculator.git
+
+## File Structure
+```bash
+/simple-js-calculator
+│
+├── index.html         # Main HTML file
+├── style.css          # Stylesheet for UI
+├── script.js          # JavaScript logic for calculator
+└── README.md
+```
+
+## How it works
+
+- Number Buttons: Clicking on number buttons appends digits to the current operand (either first or second number depending on operator presence).
+- Operator Buttons: Clicking on an operator (+, -, *, /, ^) stores the current number and operator for calculation.
+- Decimal Button: Adds a decimal point to the current operand if one is not already present.
+- Backspace Button: Removes the last character from the current input (number or operator).
+- Clear Button: Resets the entire input and clears stored values.
+- Equals Button: Computes the result based on the selected operator and inputs, then displays the result.
+
+
