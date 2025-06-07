@@ -18,7 +18,6 @@ A web-based calculator built with HTML, CSS, and JavaScript. This project suppor
 ## Demo Screenshot
 
 <img src="https://github.com/user-attachments/assets/2526ade2-e506-4312-9028-46f7349bef0b" width="400" />
-<img src="https://github.com/user-attachments/assets/2526ade2-e506-4312-9028-46f7349bef0b" height="300" />
 
 
 ---
