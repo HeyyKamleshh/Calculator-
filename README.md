@@ -54,4 +54,10 @@ A web-based calculator built with HTML, CSS, and JavaScript. This project suppor
 - Clear Button: Resets the entire input and clears stored values.
 - Equals Button: Computes the result based on the selected operator and inputs, then displays the result.
 
+##Code Highlights
+
+- Use of event listeners for interactive buttons.
+- Input validation to prevent multiple decimals in one operand.
+- Use of string manipulation for backspace and input display.
+- Calculation logic implemented using JavaScript Number() conversion and arithmetic operators.
 
